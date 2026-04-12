@@ -1,0 +1,29 @@
+# Shopify stores to monitor — one slug per line (no .myshopify.com)
+# Format: store-slug
+
+# --- International FR-focused ---
+gymshark
+allbirds
+bonobos
+casper
+kyliecosmetics
+
+# --- France / Europe ---
+sezane
+rouje
+baiselinge
+cettecollection
+bonprix
+
+# --- Niche: Home & Organisation ---
+ikeafrance
+scandimoments
+maisons-du-monde
+monoprix
+
+# --- Niche: Wellness & Sleep ---
+lumiaglow
+morphee
+dorcel
+
+# --- Add your own below ---
